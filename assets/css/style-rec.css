@@ -2,8 +2,7 @@ body {
     background-color: antiquewhite;
 }
 
-main {
-    background-repeat: no-repeat;    
+main {        
     background-size: 100%;    
     margin: 0;
     padding: 0;
