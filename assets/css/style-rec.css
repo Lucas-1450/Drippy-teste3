@@ -3,8 +3,7 @@ body {
 }
 
 .princ {
-    background-repeat: no-repeat;
-    background-image: url(./assets/igm/std.jpg);
+    background-repeat: no-repeat;    
     background-size: 100%;    
     margin: 0;
     padding: 0;
