@@ -2,9 +2,9 @@ body {
     background-color: antiquewhite;
 }
 
-main {
+.prin {
     background-repeat: no-repeat;
-    background-image: url(std.jpg);
+    background-image: url(./assets/igm/std.jpg);
     background-size: 100%;    
     margin: 0;
     padding: 0;
