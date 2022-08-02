@@ -3,10 +3,9 @@ body {
 }
 
 main {
-    background-image: url('./assets/img/std.jpg');
     background-repeat: no-repeat;
-    background-size: 100%;
-    
+    background-image: url(std.jpg);
+    background-size: 100%;    
     margin: 0;
     padding: 0;
     opacity: 94%;         
